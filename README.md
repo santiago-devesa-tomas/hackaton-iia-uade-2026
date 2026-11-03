@@ -1,7 +1,8 @@
 Integrantes: Santiago Devesa
 IA declarada: Gemini, DeepSeek
 Pista: Reglas
-Publicación en LinkedIn: <link>
+Publicación en LinkedIn: https://lnkd.in/p/dP6cEVJX
+
 
 1. Formulación y PEAS
 La pregunta. Para cada caso, ¿el jugador duplicará su valor de mercado en dos años? SÍ significa que lo duplica, NO significa que no.
